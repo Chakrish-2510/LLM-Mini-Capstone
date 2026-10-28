@@ -1,0 +1,9 @@
+id,category,prompt,reference_answer,keywords
+P1,Science,"Explain photosynthesis in simple words.","Plants use sunlight, water, and carbon dioxide to make food and release oxygen.","plants|sunlight|water|carbon dioxide|oxygen"
+P2,Technology,"What is a large language model?","An LLM is an AI model trained on large amounts of text to understand and generate language.","AI|model|text|generate|language"
+P3,Environment,"Give three ways to save water.","Fix leaks, take shorter showers, and turn off the tap while brushing.","leaks|showers|tap|water"
+P4,Education,"Explain why sleep is important for students.","Sleep supports memory, attention, learning, and overall health.","sleep|memory|learning|health"
+P5,Computing,"What is the difference between data and information?","Data are raw facts; information is data organized to provide meaning.","data|facts|meaning"
+P6,Health,"Give general tips for maintaining a healthy lifestyle.","Eat a balanced diet, exercise regularly, sleep enough, and stay hydrated.","balanced diet|exercise|sleep|hydrated"
+P7,Reasoning,"A class has 12 students and 3 equal teams. How many students are in each team?","There are 4 students in each team because 12 divided by 3 equals 4.","4|12|3|divided"
+P8,Writing,"Write a polite one-sentence email asking for a meeting.","Could we please schedule a convenient time to meet and discuss this matter?","please|schedule|meet"
